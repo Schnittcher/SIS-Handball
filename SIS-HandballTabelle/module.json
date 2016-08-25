@@ -1,0 +1,11 @@
+{
+	"id": "{1886EA3B-9FC5-4B4A-B6A5-A859AECC48FE}",
+	"name": "SISHandballTabelle",
+	"type": 3,
+	"vendor": "",
+	"aliases": ["SISHandball Tabelle"],
+	"parentRequirements": ["{3D094C9F-E763-4B92-9673-98535A673DD9}"],
+	"childRequirements": [],
+	"implemented": ["{A5228F95-286E-4A3C-829F-042F6AFD00F8}"],
+	"prefix": "sisTabelle"
+}

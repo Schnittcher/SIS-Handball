@@ -1,0 +1,9 @@
+{
+  "elements":
+  [
+    { "type": "Label", "label": "Daten von SIS-Handball ermitteln"},
+    { "name": "user", "type": "ValidationTextBox", "caption": "Username" },
+    { "name": "password", "type": "ValidationTextBox", "caption": "Passwort" },
+    { "name": "liga", "type": "ValidationTextBox", "caption": "Liganummer" }
+  ]
+}

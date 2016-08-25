@@ -1,0 +1,11 @@
+{
+	"id": "{1F17C41E-F610-4327-A3A1-7E93B56AB6C2}",
+	"name": "SISHandballSplitter",
+	"type": 2,
+	"vendor": "",
+	"aliases":["SISHandball Splitter"],
+	"parentRequirements": [],
+	"childRequirements": ["{A5228F95-286E-4A3C-829F-042F6AFD00F8}", "{F82A874F-DF1F-4902-8292-0F2B7194C9A6}"],
+	"implemented": ["{3D094C9F-E763-4B92-9673-98535A673DD9}", "{C067C907-CEB4-485B-BF8E-6D274DB69AA0}"],
+	"prefix": "sisSplitter"
+}
