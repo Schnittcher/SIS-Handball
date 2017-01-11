@@ -38,7 +38,7 @@ class SISHandballTabelle extends IPSModule {
       }
       $message .='<td class="col_0">'.$platz->Nr.'</td>';
       $message .= '<td class="col_1">'.$platz->Name.'</td>';
-      $message .= '<td class="col_8">0:0</td></tr>';
+      $message .= '<td class="col_8">'.$platz->PunktePlus.':'.$platz->PunkteMinus.'</td></tr>';
     }
     $message .= '</tbody></table>';
     SetValue($this->GetIDForIdent("Tabelle") ,utf8_decode($message));
